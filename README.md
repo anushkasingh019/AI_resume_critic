@@ -221,7 +221,7 @@ The application will open in your browser.
 ## 🌐 Live Demo
 
 **Live App:**  
-_Add your deployed Streamlit application link here._
+https://airesumecritic-seu9wgy9whbesbkunke5fy.streamlit.app/
 
 ## 📸 Application Screenshots
 
