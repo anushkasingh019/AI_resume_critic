@@ -227,14 +227,16 @@ https://airesumecritic-seu9wgy9whbesbkunke5fy.streamlit.app/
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Main Page
-![Main Page](Main_page.png)
+<img src="./Main_page.png" alt="Main Page" width="700">
 
 ### 🤖 AI Analysis Result
-![Analysis Result](Analysis.png)
+<img src="./Analysis.png" alt="Analysis Result" width="700">
 
 ### 📥 Download Analysis
-![Download Analysis](Download_analysis.png)
+<img src="./Download_analysis.png" alt="Download Analysis" width="700">
 
 ## 🎯 Capstone Problem Statement
 
