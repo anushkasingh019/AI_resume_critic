@@ -225,16 +225,16 @@ https://airesumecritic-seu9wgy9whbesbkunke5fy.streamlit.app/
 
 ## 📸 Application Screenshots
 
-Add screenshots of the working application here.
+## 📸 Screenshots
 
-Recommended screenshots:
+### 🏠 Main Page
+![Main Page](Main_page.png)
 
-1. Main resume upload interface
-2. Job description input
-3. Resume analysis dashboard
-4. Match score and missing keywords
-5. Improved bullet points and ATS tips
-6. Download analysis option
+### 🤖 AI Analysis Result
+![Analysis Result](Analysis.png)
+
+### 📥 Download Analysis
+![Download Analysis](Download_analysis.png)
 
 ## 🎯 Capstone Problem Statement
 
